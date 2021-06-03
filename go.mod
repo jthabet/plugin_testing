@@ -1,4 +1,4 @@
-module github.com/mattermost/mattermost-plugin-starter-template
+module github.com/jthabet/plugin_testing
 
 go 1.16
 
