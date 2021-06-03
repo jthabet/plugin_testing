@@ -129,3 +129,11 @@ if appErr := p.API.SetProfileImage(userID, profileImage); appErr != nil {
 
 ### How do I build the plugin with unminified JavaScript?
 Setting the `MM_DEBUG` environment variable will invoke the debug builds. The simplist way to do this is to simply include this variable in your calls to `make` (e.g. `make dist MM_DEBUG=1`).
+
+
+### More info
+
+Working with the following versionsn when tried with the latest it did not!
+
+- Nodejs version: `v14.17.0`
+- npm version: `6.14.4`
